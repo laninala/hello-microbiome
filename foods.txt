@@ -3,5 +3,7 @@ kimchi
 sauerkraut
 suuser
 mozzarella
+gazosa
+miso
 
 
